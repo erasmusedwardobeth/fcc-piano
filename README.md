@@ -27,7 +27,7 @@ This project is part of the **FreeCodeCamp Responsive Web Design curriculum**. I
 ## Technologies Used
 
 - HTML5
-- CSS3 (Flexbox, Grid, Pseudo-selectors)
+- CSS3 (Positioning, Media Queries,Pseudo-selectors)
 
 ## Screenshots
 
