@@ -1,21 +1,19 @@
 # FCC Piano 🎹
-🎹 Build a Responsive Piano with HTML, CSS & JS – FreeCodeCamp Project
+🎹 Build a Responsive Piano with HTML & CSS – FreeCodeCamp Project
 
-This project is part of the **FreeCodeCamp Responsive Web Design curriculum**. It demonstrates building an interactive piano that works across different screen sizes using HTML, CSS, and JavaScript.  
+This project is part of the **FreeCodeCamp Responsive Web Design curriculum**. It demonstrates building an interactive piano that works across different screen sizes using HTML, and CSS.  
 
 ## Features
 
 - Fully responsive design using **media queries**
-- Stylish piano keys with **pseudo-selectors** (`:hover`, `:active`, `:focus`)
-- Interactive keyboard and mouse input
-- Clear visual feedback when keys are pressed
+- Stylish piano keys with **pseudo-selectors** (`:before`, `:after`)
 
 ## Learning Goals
 
 - Understanding **responsive layouts** for multiple screen sizes
 - Using **CSS pseudo-selectors** to enhance UI interactions
 - Practicing **HTML structure** and **CSS styling**
-- Adding **JavaScript interactivity** for user input
+
 
 ## How to Use
 
@@ -30,11 +28,10 @@ This project is part of the **FreeCodeCamp Responsive Web Design curriculum**. I
 
 - HTML5
 - CSS3 (Flexbox, Grid, Pseudo-selectors)
-- JavaScript (DOM manipulation & event handling)
 
 ## Screenshots
 
-*(Add images of your piano UI here)*
+*(Add images of piano UI here)*
 
 ## Author
 
